@@ -1,57 +1,53 @@
-# C# 자료구조 및 알고리즘 학습
+📚 C# 자료구조 직접 구현 프로젝트
+🧩 프로젝트 개요
+이 리포지토리는 C#을 이용해 기본적인 자료구조를 직접 구현하며, 각 구조의 작동 방식과 원리를 학습한 내용을 정리한 것입니다.
+Visual Studio를 사용하여 로직을 작성했고, Draw.io와 Notion을 활용해 시각적 이해와 이론 정리를 함께 진행했습니다.
 
-Visual Studio와 Draw.io를 활용해 직접 구현하며 학습한 C# 자료구조 프로젝트입니다.  
-기초적인 자료구조의 작동 원리를 코드와 구조도(다이어그램)를 통해 이해하는 데 목적이 있습니다.
+📂 구현한 자료구조 목록
+자료구조	구현 파일	설명
+✅ ArrayList	MyDynamicArray.cs	크기를 자동으로 확장하는 배열 구조
+✅ LinkedList	MyLinkedList.cs	노드 기반의 선형 연결 자료구조
+✅ Stack	MyStack.cs	후입선출(LIFO) 방식의 구조
+✅ Queue	MyQueue.cs	선입선출(FIFO) 방식의 구조
+✅ Priority Queue	MyPriorityQueue.cs	우선순위 기반의 큐 구조
+✅ Hashtable	MyHashtable.cs	해시를 이용한 빠른 탐색 구조
+✅ AVL Tree	MyAVLTree.cs	자동으로 균형을 맞추는 이진 탐색 트리
+✅ 정렬 알고리즘	SortAlgorithm.csproj 내부	다양한 정렬 알고리즘 구현 (향후 확장 예정)
+🧠 이론 정리 & 다이어그램
+전체 자료 구조 정리 페이지
+📄 Notion 통합 정리 페이지
 
----
+개별 이론 페이지
 
-## 💻 개발 환경
+ArrayList 정리
 
-- 언어: C#
-- 도구: Visual Studio, Draw.io
-- 플랫폼: 콘솔 애플리케이션 (.NET)
-- 학습 기간: 약 1.5개월
+LinkedList 정리
 
----
+Stack & Queue 정리
 
-## 📁 구현한 자료구조
+우선순위 큐 / 힙 정리
 
-| 자료구조             | 설명 |
-|----------------------|------|
-| `MyDynamicArray<T>`   | 동적 배열 |
-| `MyStack<T>`           | 스택 |
-| `MyQueue<T>`           | 큐 |
-| `MyLinkedList<T>`      | 단일 연결 리스트 |
-| `MyHashtable<K, V>`    | 해시 테이블 |
-| `MyPriorityQueue`      | 우선순위 큐 |
-| `MyAVLTree<T>`         | AVL 트리 (균형 이진 탐색 트리) |
+트리, AVL 트리 개념 정리
 
----
+📊 다이어그램 툴: Draw.io
 
-## 📘 추가 실습 항목
+🔧 개발 환경
+언어: C#
 
-### 🔢 정렬 알고리즘
-- 기본 정렬 알고리즘 구현 (버블, 삽입, 선택 정렬 등)
+IDE: Visual Studio
 
-### 🧵 델리게이트 & 이벤트
-- 유튜버-구독자 구조로 Observer 패턴 실습
+다이어그램 툴: Draw.io
 
-### 🔄 Enumeration 구현
-- `IEnumerable`, `IEnumerator` 직접 구현
+문서화: Notion
 
----
+💬 학습 목적
+자료구조의 내부 로직과 동작 원리를 직접 구현해보며 이론을 실습으로 연결
 
-## 🧠 학습 포인트
+게임 개발이나 일반 프로그래밍에서 사용할 수 있는 기초 구조 이해
 
-- 제네릭 자료구조를 직접 구현하며 작동 원리 학습
-- 구조도 (Draw.io 기반 시각화) 를 통해 데이터 흐름 이해
-- 콘솔 앱을 활용한 단순 출력 테스트로 로직 확인
+📌 향후 계획
+정렬 알고리즘 구체적 구현 및 정리
 
----
+해시 충돌 해결 방식 등 더 복잡한 구조로 확장
 
-## 🗂️ 프로젝트 폴더 구성
-Root/ ├── MyDynamicArray.cs ├── MyStack.cs ├── MyQueue.cs ├── MyLinkedList.cs 
-├── MyHashtable.cs ├── MyPriorityQueue.cs ├── MyAVLTree.cs ├── Program.cs 
-├── SortAlgorithm/ │ └── Program.cs ├── SubscribeExample/ │ ├── Youtuber.cs │
-├── Subscriber.cs │ └── Content.cs ├── Enumeration/ │ └── Program.cs
-
+프로젝트별 예제 추가 예정
