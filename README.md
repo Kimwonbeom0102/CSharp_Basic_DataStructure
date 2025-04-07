@@ -10,7 +10,7 @@ Visual Studio와 Draw.io를 활용해 직접 구현하며 학습한 C# 자료구
 - 언어: C#
 - 도구: Visual Studio, Draw.io
 - 플랫폼: 콘솔 애플리케이션 (.NET)
-- 학습 기간: 약 3개월
+- 학습 기간: 약 1.5개월
 
 ---
 
