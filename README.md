@@ -16,7 +16,7 @@
 ### 🔹 1. 배열 (Dynamic Array)
 - 고정 크기 배열의 한계를 보완한 구조
 - 요소 추가 시 자동 확장 및 내부 복사 처리 구현
-- [MyDynamicArray.cs](./MyDynamicArray.cs)
+- 📂 [MyDynamicArray.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyDynamicArray.cs)
 - 📘 [학습 정리 Notion](https://www.notion.so/ArrayList-1574b04e10ea802ca389ff0ce0281ca8)
 
 ---
