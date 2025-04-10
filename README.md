@@ -24,7 +24,7 @@
 ### 🔹 2. 연결 리스트 (Linked List)
 - 노드를 포인터로 연결한 구조
 - 단일 연결 리스트 구조 구현 및 삽입/삭제 연산 학습
-- [MyLinkedList`1.cs](./MyLinkedList%601.cs)
+- [MyLinkedList`1.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyLinkedList%601.cs)
 - 📘 [학습 정리 Notion](https://www.notion.so/Linked-List-1574b04e10ea808bb1d8f535f8c603fd)
 
 ---
@@ -32,7 +32,7 @@
 ### 🔹 3. 스택 (Stack)
 - LIFO(후입선출) 구조
 - 기본 `Push`, `Pop`, `Peek` 메서드 구현
-- [MyStack`1.cs](./MyStack%601.cs)
+- [MyStack`1.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyStack%601.cs)
 - 📘 [학습 정리 Notion](https://www.notion.so/1594b04e10ea80d58908c90394451c58)
 
 ---
@@ -40,7 +40,7 @@
 ### 🔹 4. 큐 (Queue)
 - FIFO(선입선출) 구조
 - 순차 큐 및 원형 큐 개념 학습
-- [MyQueue`1.cs](./MyQueue%601.cs)
+- [MyQueue`1.cs]([./MyQueue%601.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyQueue%601.cs))
 - 📘 [학습 정리 Notion](https://www.notion.so/1594b04e10ea806b8e96eba5cfa15c94)
 
 ---
@@ -48,7 +48,7 @@
 ### 🔹 5. 해시테이블 (Hash Table)
 - 키-값 구조의 데이터 저장 방식
 - 충돌 해결 및 해시 함수 설계 개념 학습
-- [MyHashtable`2.cs](./MyHashtable%602.cs)
+- [MyHashtable`2.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyHashtable%602.cs)
 - 📘 [학습 정리 Notion](https://www.notion.so/14d4b04e10ea80f5bd74f886f0511c99)
 
 ---
@@ -56,6 +56,7 @@
 ### 🔹 6. 우선순위 큐 (Priority Queue)
 - 우선순위가 높은 요소를 먼저 꺼내는 자료구조
 - 힙(Heap) 기반 구조 이해
+- [MyPriorityQueue.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyPriorityQueue.cs)
 - [MyPriorityQueue.cs](./MyPriorityQueue.cs)
 
 ---
@@ -63,7 +64,7 @@
 ### 🔹 7. 이진 트리 (Binary Tree)
 - 이진 탐색 트리(Binary Search Tree) 구조 구현
 - 삽입, 탐색, 삭제 메서드 구성
-- [MyAVLTree`1.cs](./MyAVLTree%601.cs)
+- [MyAVLTree`1.cs][(./MyAVLTree%601.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyAVLTree%601.cs))
 - 📘 참고 다이어그램  
   ![Binary Tree Diagram](./A_pair_of_diagrams_side-by-side_illustrate_binary_.png)
 
@@ -71,7 +72,7 @@
 
 ### 🔹 8. 정렬 알고리즘 (Sorting Algorithms)
 - 선택 정렬, 삽입 정렬 등 기본 정렬 알고리즘 구조
-- [SortAlgorithm.csproj](./SortAlgorithm.csproj)
+- [SortAlgorithm.cs]([./SortAlgorithm.csproj](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/SortAlgorithm/ArrayExtensions.cs))
 - 📘 [정리된 내용 보기](https://www.notion.so/14d4b04e10ea80f5bd74f886f0511c99)
 
 ---
