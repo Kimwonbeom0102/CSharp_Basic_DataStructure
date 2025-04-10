@@ -40,7 +40,7 @@
 ### 🔹 4. 큐 (Queue)
 - FIFO(선입선출) 구조
 - 순차 큐 및 원형 큐 개념 학습
-- [MyQueue`1.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyQueue%601.cs))
+- [MyQueue`1.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyQueue%601.cs)
 - 📘 [학습 정리 Notion](https://www.notion.so/1594b04e10ea806b8e96eba5cfa15c94)
 
 ---
@@ -64,7 +64,7 @@
 ### 🔹 7. 이진 트리 (Binary Tree)
 - 이진 탐색 트리(Binary Search Tree) 구조 구현
 - 삽입, 탐색, 삭제 메서드 구성
-- [MyAVLTree`1.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyAVLTree%601.cs))
+- [MyAVLTree`1.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyAVLTree%601.cs)
 - 📘 참고 다이어그램  
   ![Binary Tree Diagram](./A_pair_of_diagrams_side-by-side_illustrate_binary_.png)
 
@@ -72,7 +72,7 @@
 
 ### 🔹 8. 정렬 알고리즘 (Sorting Algorithms)
 - 선택 정렬, 삽입 정렬 등 기본 정렬 알고리즘 구조
-- [ArrayExtensions.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/SortAlgorithm/ArrayExtensions.cs))
+- [ArrayExtensions.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/SortAlgorithm/ArrayExtensions.cs)
 - 📘 [정리된 내용 보기](https://www.notion.so/14d4b04e10ea80f5bd74f886f0511c99)
 
 ---
