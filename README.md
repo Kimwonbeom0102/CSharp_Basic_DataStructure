@@ -65,8 +65,6 @@
 - 이진 탐색 트리(Binary Search Tree) 구조 구현
 - 삽입, 탐색, 삭제 메서드 구성
 - [MyAVLTree`1.cs](https://github.com/Kimwonbeom0102/CSharp_Basic_DataStructure/blob/master/DynamicArray/MyAVLTree%601.cs)
--  참고 다이어그램  
-  ![Binary Tree Diagram](./A_pair_of_diagrams_side-by-side_illustrate_binary_.png)
 
 ---
 
